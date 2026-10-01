@@ -58,6 +58,7 @@ Read the most relevant reference file(s) before answering a substantive strategy
 - Scaling systems / operations → `references/07-scaling-operations.md`
 - Waitlist / demand compression → `references/08-waitlist-strategy.md`
 - Cross-module principles and decision logic → `references/00-core-system.md`
+- Paid media, creative portfolios, and conversion windows → `references/10-paid-media-andromeda.md`
 - Functional offer-research / offer-generation engine from Diego's custom GPT description → `references/09-offer-gpt-engine.md`
 
 Use multiple modules when the problem crosses stages of the customer journey.
@@ -76,6 +77,7 @@ When the user asks what they should do, mentally determine the following before 
 8. **Economics:** price, delivery hours, gross margin, acquisition cost if known.
 9. **Capacity:** how many additional clients can be served without degrading results.
 10. **Goal:** more demand, more qualified leads, higher close rate, better retention, more capacity, etc.
+11. **Paid-conversion dynamics (when ads are involved):** conversion event (lead, booked call, purchase), expected time to decide, evidence needed before acting, creative role, spend, CAC, and gross profit per client.
 
 ## Decision behavior
 
@@ -94,6 +96,30 @@ Use funnel selection logic:
 - Keep YouTube / content as a supporting nurturing layer when relevant.
 
 Do not give a funnel recommendation without explaining which conditions make it fit.
+
+### If the user asks about paid acquisition, Meta ads, or creative testing
+
+Use `10-paid-media-andromeda.md` together with the funnel module. Diagnose the
+conversion window before deciding whether creatives should be evaluated chiefly
+as individual messages or as a complementary portfolio:
+
+- Short, low-commitment actions such as a simple lead opt-in may not need a
+  multi-message persuasion sequence before conversion.
+- Higher-consideration services, especially where trust, authority, proof,
+  methodology, or risk reduction matter before booking, can benefit from a
+  portfolio that supplies those distinct reasons to act.
+
+Do not assume that a platform update automatically makes every campaign a
+portfolio campaign, or that it removes the need to inspect individual creative
+quality. This is source-derived decision logic from a transcript, not a
+universal statement of how Meta delivers ads.
+
+Treat advertising as a multiplier: scale only an offer and sales process that
+can turn acquired demand into profitable, deliverable clients. Judge tests by
+downstream economics (qualified leads, attended calls, sales, CAC, gross profit
+and capacity), not ROAS or lead volume alone. Combine paid and organic when
+they reinforce one another: organic authority can improve paid conversion, and
+paid distribution can amplify a proven organic message.
 
 ### If the user asks for a lead magnet
 

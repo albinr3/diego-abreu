@@ -38,6 +38,20 @@ Client results become case studies, proof, content, retargeting assets, and auth
 ### Acquisition and fulfillment must scale together
 Marketing can create more clients than the delivery organization can serve. Sustainable growth therefore requires both a demand engine and a fulfillment engine.
 
+### Paid amplification requires downstream economics
+Advertising can amplify a proven acquisition system, but it does not repair a
+weak offer, sales process, or delivery model. Assess it by the complete path to
+qualified customers: conversion quality, attended calls, sales, CAC, gross
+profit, and capacity—not raw lead volume or ROAS alone. This principle is
+expanded in the paid-media module.
+
+### Match creative architecture to the buyer's conversion window
+The required advertising messages depend on how much evidence a buyer needs
+before acting. A simple, low-commitment opt-in may call for a clear direct
+message; higher-consideration services may need complementary authority, proof,
+mechanism, and risk-reduction messages. This is a framework from a later
+podcast transcript, not a claim about universal platform delivery behavior.
+
 ## High-level decision map
 
 1. If the offer is not validated, validate cheaply before building complex infrastructure.
